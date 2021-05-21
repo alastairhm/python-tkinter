@@ -4,11 +4,11 @@ Frame Tkinter
 import tkinter as tk
 
 border_effects = {
-    "flat": tk.FLAT,
-    "sunken": tk.SUNKEN,
-    "raised": tk.RAISED,
-    "groove": tk.GROOVE,
-    "ridge": tk.RIDGE,
+    'flat': tk.FLAT,
+    'sunken': tk.SUNKEN,
+    'raised': tk.RAISED,
+    'groove': tk.GROOVE,
+    'ridge': tk.RIDGE,
 }
 
 window = tk.Tk()
